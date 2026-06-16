@@ -12,13 +12,6 @@ function Contact() {
             <br />
             vidhyavaishu02@gmail.com
           </p>
-
-          <p>
-            <strong>Phone:</strong>
-            <br />
-            7010381776
-          </p>
-
           <p>
             <strong>Location:</strong>
             <br />
